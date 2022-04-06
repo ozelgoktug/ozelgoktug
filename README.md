@@ -1,11 +1,13 @@
 - 👋 Hi, It's Goktug
 - 👀 interested in {
-- C#(OOP,inheritnce, Dependency Injection, Interface, abstract, class, switch expressions, pattern matchings, ternary, reference type variables, value type variables, switch(goto, when), try-catch(Exceptions,finally)); 
-- .Net Core (MVC, EntityFramework, SQL, MS Identity, Dependecy Injection, validations, Routing, Controllers, Action Methods, Result and View rendering, Kestrel, Razor(@cshtml), ;
-- OOP(fields, properties[encapsulation, full properties,  prop, auto property initilizers, ref readonly returns, computed  properties, Expression-Bodied property(readonly property), init-only properties, init accessor);
+- C#(OOP,inheritnce, Dependency Injection, Interfaces rtc...); 
+- .Net Core (MVC, EntityFramework, MS Identity, UnitOfWork, Fluent Validations, Generic Repositories, Razor, AREA's...) ;
+- Frontdnd Development (Razor, CSS, Bootstrap, JQuery, Json, XML, HTML)
+- Authentication, Authorization & Validation (Microsoft Identity, Fluent Validation, DataAnnotations)
 - Json, XML, SQL; }
 - Entity Framework... 
 - CSS, Bootstrap, JQuery...
+- OOP(fields, properties[encapsulation, full properties,  prop, auto property initilizers, ref readonly returns, computed  properties, Expression-Bodied property(readonly property), init-only properties, init accessor);
 <br></br>
 - 💞️ looking to collaborate on full time works.
 - 📫 You can reach to me on e-mail: ozlgktg@gmail.com
